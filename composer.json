@@ -1,0 +1,20 @@
+{
+    "name": "irfan/contact",
+    "description": "This will send email to admin and save query in database",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Irfan\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Irfan Chowdhury",
+            "email": "irfanchowdhury80@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+
+}
