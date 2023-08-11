@@ -8,7 +8,7 @@
     <title>Contact Us</title>
 </head>
 <body>
-    <h1>Contact us any time</h1>
+    <h1>Contact us any time from Laravel</h1>
     <form action="{{ route('contact') }}" method="POST">
         @csrf
         <input type="text" name="name" placeholder="Your Name">
